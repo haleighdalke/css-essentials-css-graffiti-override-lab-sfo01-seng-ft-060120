@@ -20,7 +20,7 @@ body div#wall .parent #tag-5.slick  { /*questionable*/
   display:none;
 }
 
-div#wall div.parent div:last-child div#tag-6 { /*questionable*/
+body div#wall div.parent div:last-child div#tag-6 { /*questionable*/
   display: none;
 }
 
