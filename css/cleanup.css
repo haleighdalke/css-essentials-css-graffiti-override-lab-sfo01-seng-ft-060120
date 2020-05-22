@@ -16,7 +16,7 @@
   display: none;
 }
 
-div#wall .parent #tag-5.slick  { /*questionable*/
+body div#wall .parent #tag-5.slick  { /*questionable*/
   display:none;
 }
 
