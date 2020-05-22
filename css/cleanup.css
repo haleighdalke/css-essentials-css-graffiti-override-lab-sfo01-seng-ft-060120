@@ -4,7 +4,7 @@
   display: none;
 }
 
-#wall .tag-1 + #tag-2 {  /*questionable*/
+#wall .tag-1 + #tag-2 {
   display: none;
 }
 
@@ -16,6 +16,14 @@
   display: none;
 }
 
-div[id="tag-4"] ~ div[class="slick"] {
+div#wall .parent #tag-5.slick  { /*questionable*/
   display:none;
+}
+
+div#wall div.parent div:last-child div#tag-6 { /*questionable*/
+  display: none;
+}
+
+body div#wall div.parent div > #tag-7.slick {
+  display: none;
 }
