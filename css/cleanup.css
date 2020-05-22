@@ -16,6 +16,6 @@
   display: none;
 }
 
-#wall .parent > #tag-4 + div[class="slick"] {
+#wall .parent div[class="slick"] {
   display:none;
 }
